@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+
+#for database 
+sqlalchemy 
+psycopg2 
+
+#for evn var 
+python-dotenv 
+
